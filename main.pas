@@ -1,6 +1,3 @@
-program
-   AverageGD;
-
 uses
    DoS, Crt;
 
